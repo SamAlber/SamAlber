@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Albershtein 👋
 
-**DevOps - Cybersecurity Enthusiast**
+**DevOps and IT Enthusiast**
 
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and DevSecOps.
 
@@ -11,8 +11,8 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 - 🌐 **Languages**: Hebrew (native), English, Russian, German
 
 ### 🌱 Current Focus
-- 🖥️ **Building a Personal CV Webpage** using my DevOps and backend skills — no frontend frameworks!
-- 📈 Preparing for **CKA** and exploring **cybersecurity business opportunities**.
+- 🖥️ **Building a Personal CV Webpage** using my DevOps and cloud skills. 
+- 📈 Preparing for **CKA**  
 
 Thanks for visiting my profile! 😊 Let’s connect. 
 
