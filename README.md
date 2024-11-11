@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Albershtein 👋
 
-**DevOps and IT Enthusiast**
+**DevOps Enthusiast**
 
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and DevSecOps.
 
