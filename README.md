@@ -12,7 +12,7 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 
 ### 🌱 Current Focus
 - 🖥️ **Building a Personal CV Webpage** using my DevOps and cloud skills. 
-- 📈 Preparing for **CKA**  
+- 📈 Preparing for **CKA**. 
 
 Thanks for visiting my profile! 😊 Let’s connect. 
 
