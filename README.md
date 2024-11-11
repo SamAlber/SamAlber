@@ -17,5 +17,3 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 Thanks for visiting my profile! 😊 Let’s connect. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-albershtein-ba82931a0/)
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAlber&show_icons=true&theme=)
