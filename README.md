@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Albershtein 👋
 
-**SysAdmin | DevOps | Backend | Cybersecurity Enthusiast**
+**DevOps - Cybersecurity Enthusiast**
 
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and DevSecOps.
 
@@ -16,4 +16,6 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 
 Thanks for visiting my profile! 😊 Let’s connect. 
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAlber&show_icons=true&theme=dark)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-albershtein-ba82931a0/)
+
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAlber&show_icons=true&theme=)
