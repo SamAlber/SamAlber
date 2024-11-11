@@ -8,7 +8,7 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 - 🎓 **CS Student at the Open University of Israel**
 - 📜 **Certifications**: RHCSA, AWS SAA, Terraform Associate
 - 💼 **Tech Stack**: AWS, Terraform, GitLab CI/CD, Jenkins, NGINX, REST APIs, Docker
-- 🌐 **Languages**: Hebrew (native), English, Russian, German
+- 🌐 **Languages**: Python, Java, Bash 
 
 ### 🌱 Current Focus
 - 🖥️ **Building a Personal CV Webpage** using my DevOps and cloud skills. 
