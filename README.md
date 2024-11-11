@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Samuel Albershtein 👋
 
-<!--
-**SamAlber/SamAlber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SysAdmin | DevOps | Backend | Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and DevSecOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Certifications
+- 🎓 **CS Student at the Open University of Israel**
+- 📜 **Certifications**: RHCSA, AWS SAA, Terraform Associate
+- 💼 **Tech Stack**: AWS, Terraform, GitLab CI/CD, Jenkins, NGINX, REST APIs, Docker
+- 🌐 **Languages**: Hebrew (native), English, Russian, German
+
+### 🌱 Current Focus
+- 🖥️ **Building a Personal CV Webpage** using my DevOps and backend skills — no frontend frameworks!
+- 📈 Preparing for **CKA** and exploring **cybersecurity business opportunities**.
+
+Thanks for visiting my profile! 😊 Let’s connect. 
+
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamAlber&show_icons=true&theme=dark)
