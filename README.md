@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Albershtein 👋
+# Hi, I'm Sam 👋
 
 **DevOps Enthusiast**
 
