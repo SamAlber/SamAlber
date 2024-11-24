@@ -17,4 +17,5 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 Thanks for visiting my profile! 😊 Let’s connect. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-albershtein-ba82931a0/)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)(https://www.samuelalber.com/)
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://www.samuelalber.com/)
+
