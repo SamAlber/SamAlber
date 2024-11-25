@@ -11,7 +11,7 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 - 🌐 **Languages**: Python, Java, Bash 
 
 ### 🌱 Current Focus
-- 🖥️ **Building a Personal CV Webpage** using my DevOps and cloud skills. 
+- 🖥️ **Built a Personal CV Webpage** using DevOps and cloud skills. [Visit Here](https://www.samuelalber.com/)
 - 📈 Preparing for **CKA**. 
 
 Thanks for visiting my profile! 😊 Let’s connect. 
