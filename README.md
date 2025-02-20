@@ -2,7 +2,7 @@
 
 **IT | Systems | Cloud | Coding**
 
-I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and DevSecOps.
+I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and Security.
 
 ### 🔧 Skills & Certifications
 - 🎓 **CS Student at the Open University of Israel**
