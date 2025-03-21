@@ -8,7 +8,7 @@ I’m passionate about building reliable infrastructure and scalable systems wit
 - 🎓 **CS Student at the Open University of Israel**
 - 📜 **Certifications**: RHCSA, Terraform Associate
 - 💼 **Tech Stack**: AWS, Terraform, GitHub Actions CI/CD, Docker, K8S, Linux
-- 🖥️ **Languages**: Python, Java, Bash 
+- 🖥️ **Languages**: Python, Bash 
 
 ### 🌱 Current Focus
 - 🌐 **Built a Personal S3 Hosted CV Webpage** using DevOps and cloud skills. [Check it Out](https://www.samuelalber.com/)
