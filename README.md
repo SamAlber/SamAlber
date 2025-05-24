@@ -5,7 +5,7 @@
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and Security.
 
 ### 🔧 Skills & Certifications
-- 🎓 **CS Student at the Open University of Israel**
+- 🎓 **CS at the Open University of Israel**
 - 📜 **Certifications**: RHCSA, Terraform Associate, AWS SAA
 - 💼 **Tech Stack**: AWS, Terraform, GitHub Actions CI/CD, Docker, K8S, Linux
 - 🖥️ **Languages**: Python, Bash 
