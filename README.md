@@ -5,7 +5,7 @@
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and Security.
 
 ### 🔧 Skills & Certifications
-- 🎓 **Software Quality Engineer at Red Hat Specializing in Openshift Virtualization**
+- 🎓 **Software Quality Engineer at Red Hat - Openshift Virtualization**
 - 🎓 **CS at the Open University of Israel**
 - 📜 **Certifications**: RHCSA, Terraform Associate, AWS SAA, CKA
 - 💼 **Tech Stack**: AWS, Terraform, GitHub Actions CI/CD, Docker, K8S, Linux
