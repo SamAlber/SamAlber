@@ -5,14 +5,13 @@
 I’m passionate about building reliable infrastructure and scalable systems with a focus on automation, cloud, and CI/CD. Currently diving deeper into Kubernetes and Security.
 
 ### 🔧 Skills & Certifications
+- 🎓 **Software Quality Engineer at Red Hat Specializing in Openshift Virtualization**
 - 🎓 **CS at the Open University of Israel**
-- 📜 **Certifications**: RHCSA, Terraform Associate, AWS SAA
+- 📜 **Certifications**: RHCSA, Terraform Associate, AWS SAA, CKA
 - 💼 **Tech Stack**: AWS, Terraform, GitHub Actions CI/CD, Docker, K8S, Linux
 - 🖥️ **Languages**: Python, Bash 
 
-### 🌱 Current Focus
 - 🌐 **Built a Personal S3 Hosted CV Webpage** using DevOps and cloud skills. [Check it Out](https://www.samuelalber.com/)
-- 📈 Preparing for **CKA**. 
 
 Thanks for visiting my profile! 😊 Let’s connect. 
 
